@@ -1,4 +1,4 @@
-
+[![Build Status](https://wilsonmontalvo.visualstudio.com/ContosoAir/_apis/build/status/wilsonmontalvo.ContosoAir?branchName=master)](https://wilsonmontalvo.visualstudio.com/ContosoAir/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
